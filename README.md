@@ -1,7 +1,4 @@
-Here’s the text from the whitepaper for you to copy:
 
-
----
 
 Dickcoin & Penisinu Whitepaper
 
@@ -26,6 +23,8 @@ For more details, visit our official site:
 https://dickcoin69.github.io/
 
 Follow us on X: @dick_coin69
+
+https://github.com/dickcoin69/dickcoin69.github.io/raw/main/dickcoin_whitepaper_updated.pdf
 
 
 <p><a href="dickcoin_whitepaper_updated.pdf" target="_blank">Read the DickCoin Whitepaper</a></p>
