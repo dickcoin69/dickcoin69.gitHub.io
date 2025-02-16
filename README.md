@@ -24,8 +24,6 @@ https://dickcoin69.github.io/
 
 Follow us on X: @dick_coin69
 
-https://github.com/dickcoin69/dickcoin69.github.io/raw/main/dickcoin_whitepaper_updated.pdf
 
-
-<p><a href="dickcoin_whitepaper_updated.pdf" target="_blank">Read the DickCoin Whitepaper</a></p>
+https://raw.githubusercontent.com/dickcoin69/dickcoin69.github.io/main/dickcoin_whitepaper_updated.pdf
 
